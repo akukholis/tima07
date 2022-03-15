@@ -165,9 +165,12 @@ header {
 }
 
 @keyframes flash {
-  from {background-color: #49497e;}
-  to {background-color: blue;}
+  0%   {background-color: white;}
+  25%  {background-color: #3498db;}
+  50%  {background-color: #2980b9;}
+  100% {background-color: white;}
 }
+
 .title1{
   font-size: 12px;  
   padding: 20px;
