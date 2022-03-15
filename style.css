@@ -167,7 +167,7 @@ header {
 @keyframes flash {
   from {background-color: #49497e;}
   to {background-color: blue;}
-
+}
 .title1{
   font-size: 12px;  
   padding: 20px;
